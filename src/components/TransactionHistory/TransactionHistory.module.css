@@ -1,0 +1,17 @@
+.transactionHistory {
+  font-size: 18px;
+  text-align: center;
+  width: 600px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 0 auto 30px;
+}
+
+.transactionHistory th {
+  padding: inherit;
+  font-weight: bold;
+  border: 1px solid black;
+}
+.transactionHistory td {
+  border: 1px solid black;
+}
